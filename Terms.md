@@ -126,8 +126,8 @@ These Terms are governed by the laws of **Indonesia**. Any disputes shall be res
 
 For any questions regarding these Terms, contact us at:
 
-**Email**: [your-email@example.com]  
-**Developer**: [Your Name / Company Name]
+**Email**: [fz.dev91@gmail.com]  
+**Developer**: [Ahmad Faiz Afrian]
 
 ---
 
@@ -261,5 +261,5 @@ Syarat ini diatur oleh hukum **Indonesia**. Sengketa apapun akan diselesaikan me
 
 Untuk pertanyaan apapun mengenai Syarat ini, hubungi kami di:
 
-**Email**: [email-anda@example.com]  
-**Pengembang**: [Nama / Nama Perusahaan Anda]
+**Email**: [fz.dev91@gmail.com]  
+**Pengembang**: [Ahmad Faiz Afrian]
