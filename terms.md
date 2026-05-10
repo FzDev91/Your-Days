@@ -92,7 +92,7 @@ All content, design, code, and features of Your Days are the intellectual proper
 ## 7. Data and Privacy
 
 Your use of the App is also governed by our **Privacy Policy**, which is incorporated into these Terms by reference.  
-Read it here: **[https://your-url/privacy-policy]**
+Read it here: **[https://fzdev91.github.io/Your-Days/privacy-policy]**
 
 ---
 
@@ -227,7 +227,7 @@ Semua konten, desain, kode, dan fitur Your Days adalah kekayaan intelektual **[A
 ## 7. Data dan Privasi
 
 Penggunaan Aplikasimu juga diatur oleh **Kebijakan Privasi** kami, yang dimasukkan ke dalam Syarat ini sebagai referensi.  
-Baca di sini: **[https://your-url/privacy-policy]**
+Baca di sini: **[https://fzdev91.github.io/Your-Days/privacy-policy]**
 
 ---
 
