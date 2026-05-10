@@ -85,7 +85,7 @@ You agree to:
 
 ## 6. Intellectual Property
 
-All content, design, code, and features of Your Days are the intellectual property of **[Your Name / Company Name]**. You are granted a limited, non-exclusive, non-transferable license to use the App for personal, non-commercial purposes.
+All content, design, code, and features of Your Days are the intellectual property of **[Ahmad Faiz Afrian]**. You are granted a limited, non-exclusive, non-transferable license to use the App for personal, non-commercial purposes.
 
 ---
 
@@ -104,7 +104,7 @@ The App is provided "as is" without warranties of any kind. We do not guarantee 
 
 ## 9. Limitation of Liability
 
-To the fullest extent permitted by law, **[Your Name / Company Name]** shall not be liable for any indirect, incidental, or consequential damages arising from your use of the App, including but not limited to loss of data or habit records.
+To the fullest extent permitted by law, **[Ahmad Faiz Afrian]** shall not be liable for any indirect, incidental, or consequential damages arising from your use of the App, including but not limited to loss of data or habit records.
 
 Our maximum liability to you for any claim shall not exceed the amount you paid for a subscription in the 12 months preceding the claim.
 
@@ -220,7 +220,7 @@ Kamu setuju untuk:
 
 ## 6. Kekayaan Intelektual
 
-Semua konten, desain, kode, dan fitur Your Days adalah kekayaan intelektual **[Nama / Nama Perusahaan Anda]**. Kamu diberikan lisensi terbatas, non-eksklusif, tidak dapat dipindahtangankan untuk menggunakan Aplikasi untuk tujuan pribadi dan non-komersial.
+Semua konten, desain, kode, dan fitur Your Days adalah kekayaan intelektual **[Ahmad Faiz Afrian]**. Kamu diberikan lisensi terbatas, non-eksklusif, tidak dapat dipindahtangankan untuk menggunakan Aplikasi untuk tujuan pribadi dan non-komersial.
 
 ---
 
@@ -239,7 +239,7 @@ Aplikasi disediakan "sebagaimana adanya" tanpa jaminan dalam bentuk apapun. Kami
 
 ## 9. Batasan Tanggung Jawab
 
-Sejauh yang diizinkan oleh hukum, **[Nama / Nama Perusahaan Anda]** tidak bertanggung jawab atas kerusakan tidak langsung, insidental, atau konsekuensial yang timbul dari penggunaan Aplikasimu, termasuk namun tidak terbatas pada kehilangan data atau catatan kebiasaan yang hilang.
+Sejauh yang diizinkan oleh hukum, **[Ahmad Faiz Afrian]** tidak bertanggung jawab atas kerusakan tidak langsung, insidental, atau konsekuensial yang timbul dari penggunaan Aplikasimu, termasuk namun tidak terbatas pada kehilangan data atau catatan kebiasaan yang hilang.
 
 Tanggung jawab maksimum kami kepadamu untuk klaim apapun tidak akan melebihi jumlah yang kamu bayarkan untuk langganan dalam 12 bulan sebelum klaim tersebut.
 
