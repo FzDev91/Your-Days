@@ -47,7 +47,7 @@ The App integrates the following third-party services that may collect limited d
 - We do not store your payment information. All financial data is managed by Google
 - Privacy policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-#### d) expo-notifications (Local Push Notifications)
+#### d) Expo Notifications (Local Push Notifications)
 - Used to send daily habit reminders (if enabled by you)
 - Notifications are **scheduled locally on your device** using the operating system's built-in scheduler
 - **No internet connection is required** — notifications fire even in airplane mode
@@ -169,7 +169,7 @@ Aplikasi mengintegrasikan layanan pihak ketiga berikut yang mungkin mengumpulkan
 - Kami tidak menyimpan informasi pembayaranmu. Semua data keuangan dikelola oleh Google
 - Kebijakan privasi: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-#### d) expo-notifications (Notifikasi Push Lokal)
+#### d) Expo Notifications (Notifikasi Push Lokal)
 - Digunakan untuk mengirim pengingat kebiasaan harian (jika diaktifkan olehmu)
 - Notifikasi **dijadwalkan secara lokal di perangkatmu** menggunakan penjadwal bawaan sistem operasi
 - **Tidak memerlukan koneksi internet** — notifikasi tetap muncul bahkan dalam mode pesawat
