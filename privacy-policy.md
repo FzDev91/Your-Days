@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-Your Days ("the App") is developed and maintained by **[Your Name / Company Name]**. This Privacy Policy explains what information the App collects, how it is used, and your rights regarding your data.
+Your Days ("the App") is developed and maintained by **[Ahmad Faiz Afrian]**. This Privacy Policy explains what information the App collects, how it is used, and your rights regarding your data.
 
 By using Your Days, you agree to the terms of this Privacy Policy.
 
@@ -128,7 +128,7 @@ If you have questions about this Privacy Policy, contact us at:
 
 ## 1. Pendahuluan
 
-Your Days ("Aplikasi") dikembangkan dan dikelola oleh **[Nama / Nama Perusahaan Anda]**. Kebijakan Privasi ini menjelaskan informasi apa yang dikumpulkan Aplikasi, bagaimana informasi tersebut digunakan, dan hak-hakmu terkait datamu.
+Your Days ("Aplikasi") dikembangkan dan dikelola oleh **[Ahmad Faiz Afrian]**. Kebijakan Privasi ini menjelaskan informasi apa yang dikumpulkan Aplikasi, bagaimana informasi tersebut digunakan, dan hak-hakmu terkait datamu.
 
 Dengan menggunakan Your Days, kamu menyetujui ketentuan dalam Kebijakan Privasi ini.
 
