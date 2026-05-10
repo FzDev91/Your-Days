@@ -113,8 +113,8 @@ We may update this Privacy Policy from time to time. We will notify you of signi
 
 If you have questions about this Privacy Policy, contact us at:
 
-**Email**: [your-email@example.com]  
-**Developer**: [Your Name / Company Name]
+**Email**: [fz.dev91@gmail.com]  
+**Developer**: [Ahmad Faiz Afrian]
 
 ---
 
@@ -235,5 +235,5 @@ Kami dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu. Kami akan memb
 
 Jika kamu memiliki pertanyaan tentang Kebijakan Privasi ini, hubungi kami di:
 
-**Email**: [email-anda@example.com]  
-**Pengembang**: [Nama / Nama Perusahaan Anda]
+**Email**: [fz.dev91@gmail.com]  
+**Pengembang**: [Ahmad Faiz Afrian]
